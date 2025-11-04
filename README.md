@@ -9,7 +9,7 @@
 
 ---
 
-## 📂 Categories
+## 🔍 Browse Tools by Category
 
 | Category | Description |
 |-----------|--------------|
