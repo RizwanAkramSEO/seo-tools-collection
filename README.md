@@ -2,10 +2,10 @@
 
 > A curated, category-wise collection of the **best SEO tools** for keyword research, audits, performance, backlinks, local SEO, and WordPress — maintained by [**Rizwan Akram**](https://github.com/RizwanAkramSEO).
 
-![GitHub Repo stars](https://img.shields.io/github/stars/RizwanAkramSEO/seo-tools-collection?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/RizwanAkramSEO/seo-tools-collection)
-![GitHub license](https://img.shields.io/github/license/RizwanAkramSEO/seo-tools-collection)
-![GitHub repo size](https://img.shields.io/github/repo-size/RizwanAkramSEO/seo-tools-collection)
+![GitHub Repo stars](https://img.shields.io/github/stars/RizwanAkramOfficial/seo-tools-collection?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/RizwanAkramOfficial/seo-tools-collection)
+![GitHub license](https://img.shields.io/github/license/RizwanAkramOfficial/seo-tools-collection)
+![GitHub repo size](https://img.shields.io/github/repo-size/RizwanAkramOfficial/seo-tools-collection)
 
 ---
 
