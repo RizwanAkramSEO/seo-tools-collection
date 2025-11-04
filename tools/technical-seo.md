@@ -1,4 +1,4 @@
-## 🧰 Technical SEO Tools
+# 🧰 Technical SEO Tools
 
 Crawl, audit, and fix technical SEO issues that impact crawling and indexing.
 
